@@ -1,1 +1,30 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+    display: none;
+}
+
+/* pseudo-elements has more authority */
+#wall div:nth-child(2) {
+    display: none;
+}
+
+/* pseudo-elements has more authority */
+#wall div:nth-child(3) {
+    display: none;
+}
+
+/* pseudo-elements has more authority */
+#wall div:nth-child(4) {
+    display: none;
+}
+
+/* pseudo-elements has more authority */
+#wall div:nth-child(5) {
+    display: none;
+}
+
+/* pseudo-elements has more authority */
+#wall div:nth-child(6) {
+    display: none;
+}
